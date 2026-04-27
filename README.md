@@ -1,6 +1,6 @@
 <!-- =================== BANNER (WORKING GIF) =================== -->
 <p align="center">
-  <img src="https://www.freepik.com/free-photos-vectors/cartoon-programmer-girl" width="500"/>
+  <img src="https://content.techgig.com/technology/how-can-software-developers-integrate-good-coding-practices/articleshow/78861354.cms" width="500"/>
 </p>
 
 <!-- =================== NAME / TITLE =================== -->
